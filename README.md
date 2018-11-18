@@ -1,3 +1,3 @@
 # Kubernetes
 
-./kube_pull
+./k8s_pull
